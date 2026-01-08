@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<i class="devicon-python-plain-wordmark"></i>
-<i class="devicon-sqldeveloper-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
 
 
